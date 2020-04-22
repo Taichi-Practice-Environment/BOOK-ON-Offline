@@ -82,7 +82,7 @@ strong {
 	width:800px;
 	margin-right: auto;
 	margin-left: auto;
-	background-image: url(img/head.jpg);
+	background-image: url(img/book1.jpg);
 	height: 120px;
 }
 
@@ -337,7 +337,7 @@ h1 a {
 -------------------------------------------------------------------*/
 #base #wrap #contents #c_pad .box2 {
 	float: left;
-	height: 130px;
+	height: 180px;
 	width: 270px;
 	border: 1px solid #DDDDDD;
 	margin: 5px;
@@ -358,6 +358,11 @@ h1 a {
 }
 
 #base #wrap #contents #c_pad .box2 p {
+	margin: 0px;
+}
+#base #wrap #contents #c_pad .box2 img {
+	height: 130px;
+	width: auto;
 	margin: 0px;
 }
 /*
